@@ -13,7 +13,7 @@ For ESP8266 NODEMCU 12 E
 
 
 
-This app makes you control your Arduino projects like RC car or any IOT applications using your mobile phone thru WIFI.
+This app makes you control your ESP's projects like RC car or any IOT applications using your mobile phone thru WIFI.
 
 All the files (apk, circuit, program, codes) are all provided) :)
 
@@ -49,7 +49,7 @@ Labels(D0, D1, D2 etc) can be Rename. i.e Light1, LED1, Relay1, .
 ![2](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/APP%20PICS/3.jpg)
 
 #
-# Sample Connection of Simple LED-Bluetooth control connection. 
+# Sample Connection of Simple LED-ESP control connection. 
 
 You can add LED up to 13LEDs.
 
@@ -57,9 +57,9 @@ You can add LED up to 13LEDs.
 ![hc06 led_bb](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/Schematic%20fritzing%20diagram/esp1.jpg)
 
 #
-# Sample Connection of Relay-Bluetooth control connection. 
+# Sample Connection of Relay-ESP control connection. 
 
-Up to 13 channels D2-A5Relay can be used. Using relay you can control your lights i.e bulbs or any appliances for IOT applications.
+Up to 13 channels can be used. Using relay you can control your lights i.e bulbs or any appliances for IOT applications.
 
 ![hc06 relay_bb](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/Schematic%20fritzing%20diagram/esp2.jpg)
 
@@ -96,7 +96,7 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
 
  Gamepad Serial code to ESP
  
- NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S".
+ NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S" ,"s".
 
 ![GAMEPAD_CODE](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/APP%20PICS/GAMEPAD_CODE.png)
 
