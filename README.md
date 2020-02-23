@@ -1,5 +1,5 @@
 # ESP8266 CONTROLLER PLUS ULTRA
-app version: 1.3
+app version: 1.1
 
 
 3 Modes: SWITCH ON/OFF MODE, GAMEPAD MODE ,VOICE RECOGNITION MODE (more modes in progress).
@@ -34,9 +34,6 @@ You can choose from Switch ON/OFF mode, Gamepad mode, Voice Recognition mode. (w
 ![menu](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/APP%20PICS/2.jpg)
 
 
-# NOTE: Important. 
-Before uploading to arduino disconnect first any connection in PIN D0 & D1 (TX,RX).
-
 #
 # 1.) SWITCH ON/OFF MODE
 PARTS REQUIRED: 
@@ -48,14 +45,13 @@ PARTS REQUIRED:
 
 Labels(D0, D1, D2 etc) can be Rename. i.e Light1, LED1, Relay1, .
 
-Digital pins GPIO PINS can be used.
 
 ![2](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/APP%20PICS/3.jpg)
 
 #
 # Sample Connection of Simple LED-Bluetooth control connection. 
 
-You can add LED up to 18LEDs (D2-A5) to control.
+You can add LED up to 13LEDs.
 
 
 ![hc06 led_bb](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/Schematic%20fritzing%20diagram/esp1.jpg)
@@ -96,9 +92,9 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
 
 
 #
-# Serial Code to Arduino
+# Serial Code to ESP
 
- Gamepad Serial code to Arduino
+ Gamepad Serial code to ESP
  
  NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S".
 
@@ -108,7 +104,7 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
 #
 # 3.) VOICE RECOGNITION MODE
 
-This mode use google tts & speech recognition. Make sure the device has it. This mode lets the user control IOT applications using voice command thru arduino.
+This mode use google tts & speech recognition. Make sure the device has it. This mode lets the user control IOT applications using voice command thru ESP.
 
 ![voice](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/APP%20PICS/5.jpg)
 
