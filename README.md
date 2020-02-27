@@ -59,7 +59,7 @@ You can add LED up to 13LEDs.
 # Type your Router SSID and Password
 a. Upload and open the serial monitor and copy the ESP IP address to the app.
 
-![hc06 led_bb](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/APP%20PICS/esp2.png)
+![hc06 led_bb](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/APP%20PICS/esp.png)
 
 b. alternatively you can use "FING" to search your IP address.
 https://www.fing.com/products/fing-app
