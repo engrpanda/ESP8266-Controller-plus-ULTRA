@@ -56,7 +56,20 @@ You can add LED up to 13LEDs.
 
 ![hc06 led_bb](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/Schematic%20fritzing%20diagram/esp1.jpg)
 
+# Type your Router SSID and Password
+a. Upload and open the serial monitor and copy the ESP IP address to the app.
+
+![hc06 led_bb](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/APP%20PICS/esp2.png)
+
+b. alternatively you can use "FING" to search your IP address.
+https://www.fing.com/products/fing-app
+
+
 #
+![hc06 led_bb](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/APP%20PICS/esp1.png)
+
+
+
 # Sample Connection of Relay-ESP control connection. 
 
 Up to 13 channels can be used. Using relay you can control your lights i.e bulbs or any appliances for IOT applications.
