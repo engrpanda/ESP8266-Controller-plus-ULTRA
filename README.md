@@ -21,7 +21,9 @@ This app makes you control your ESP's projects like RC car or any IOT applicatio
 
 All the files (apk, circuit, program, codes) are all provided) :)
 
+# NEW to ESP? check this link to get started:
 
+https://www.instructables.com/id/Programming-ESP8266-ESP-12E-NodeMCU-Using-Arduino-/
 
 # Compatible with android 4.4.4 (API 19) to android 9(API 28). 
 
