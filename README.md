@@ -9,7 +9,9 @@ For ESP8266 NODEMCU 12 E
 
 - ok why plus ultra? first im a fan of all might(Plus ultra means go beyond your limit). :) 
 
-
+code: https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/tree/master/ESP8266_sample_program
+fritzing: https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/tree/master/Schematic%20fritzing%20diagram
+app: https://play.google.com/store/apps/details?id=com.Espwifi.panda&hl=en_US
 
 
 
