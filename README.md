@@ -25,6 +25,7 @@ All the files (apk, circuit, program, codes) are all provided) :)
 
 https://www.instructables.com/id/Programming-ESP8266-ESP-12E-NodeMCU-Using-Arduino-/
 
+https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html
 
 #
 # Compatible with android 4.4.4 (API 19) to android 9(API 28). 
