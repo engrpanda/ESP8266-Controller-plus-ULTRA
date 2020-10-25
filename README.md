@@ -22,6 +22,7 @@ https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/tree/master/Schematic
 # app:
 https://play.google.com/store/apps/details?id=com.Espwifi.panda&hl=en_US
 
+https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/releases
 
 
 This app makes you control your ESP's projects like RC car or any IOT applications using your mobile phone thru WIFI.
