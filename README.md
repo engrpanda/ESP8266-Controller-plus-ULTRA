@@ -1,19 +1,26 @@
 # ESP8266 CONTROLLER PLUS ULTRA
-app version: 1.1
-
-
-3 Modes: SWITCH ON/OFF MODE, GAMEPAD MODE ,VOICE RECOGNITION MODE (more modes in progress).
-
-
 For ESP8266 NODEMCU 12 E
+
+# 3 MODES
+  - SWITCH ON/OFF MODE
+  - GAMEPAD MODE 
+    - Arrow button 
+    - Analog joystick button
+    - IP CAM Video VIEWER
+  - VOICE RECOGNITION MODE
+
+
 
 - ok why plus ultra? first im a fan of all might(Plus ultra means go beyond your limit). :) 
 
-code: https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/tree/master/ESP8266_sample_program
+# code: 
+https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/tree/master/ESP8266_sample_program
 
-fritzing: https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/tree/master/Schematic%20fritzing%20diagram
+# fritzing:
+https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/tree/master/Schematic%20fritzing%20diagram
 
-app: https://play.google.com/store/apps/details?id=com.Espwifi.panda&hl=en_US
+# app:
+https://play.google.com/store/apps/details?id=com.Espwifi.panda&hl=en_US
 
 
 
@@ -103,6 +110,13 @@ PARTS REQUIRED:
 - Connecting wires
 
 ![1](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/APP%20PICS/4.jpg)
+![1](https://github.com/engrpanda/ESP8266-Controller-plus-ULTRA/blob/master/APP%20PICS/ipcam.jpg?raw=true)
+
+# IP CAM VIEWER
+
+Using 3rd party IP CAM (copy the IP address) - Must be the same network
+
+link:https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_US
 
 #
 # Sample Connection of RC Car-ESP control connection. 
