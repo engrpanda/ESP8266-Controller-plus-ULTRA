@@ -1,3 +1,35 @@
+# Aero U-Robot Link — Official Successor Project
+
+This repository has been succeeded by a newer and actively developed application:
+
+GitHub Repository:
+https://github.com/engrpanda/Aero_U-Robot-Link
+
+Google Play Store App:
+https://play.google.com/store/apps/details?id=com.Aero.engrpanda
+
+
+The new project is the next generation of this application, featuring:
+
+* Improved UI and user experience
+* Better stability and performance
+* Cleaner architecture and maintainable codebase
+* Expanded functionality and future feature updates
+* Continued active development and support
+
+While this repository will remain available for legacy reference and historical purposes, future updates and improvements will primarily continue in the new successor project.
+
+Thank you for supporting the project and following its development journey.
+
+
+
+
+
+
+
+
+
+
 # ESP8266 CONTROLLER PLUS ULTRA
 For ESP8266 NODEMCU 12 E
 
